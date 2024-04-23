@@ -28,6 +28,8 @@ Welcome to the Invitation Project! This web application allows you to create and
 
 ### 8. **Cross-Browser Compatibility**
    - Experience a consistent and reliable performance across various web browsers.
+   - <img width="1440" alt="Screenshot 2024-04-23 at 11 16 14 PM" src="https://github.com/Nagaraja-Kamatar/Fresher-s-Party/assets/145822414/7da89278-8499-49a1-bb1d-e240eee75241">
+
 
 ## Getting Started
 
@@ -40,3 +42,4 @@ Follow these steps to get started with the Invitation Project:
 Start creating memorable and personalized invitations for your events today! If you encounter any issues or have suggestions, feel free to open an issue in this repository.
 
 Happy event planning!
+
